@@ -1,0 +1,15 @@
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/bin/Debug/net5.0/carInsurance.deps.json
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/bin/Debug/net5.0/carInsurance.runtimeconfig.json
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/bin/Debug/net5.0/carInsurance.runtimeconfig.dev.json
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/bin/Debug/net5.0/carInsurance.dll
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/bin/Debug/net5.0/ref/carInsurance.dll
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/bin/Debug/net5.0/carInsurance.pdb
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/carInsurance.csproj.AssemblyReference.cache
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/carInsurance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/carInsurance.AssemblyInfoInputs.cache
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/carInsurance.AssemblyInfo.cs
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/carInsurance.csproj.CoreCompileInputs.cache
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/carInsurance.dll
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/ref/carInsurance.dll
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/carInsurance.pdb
+/Users/codepadiwan/Documents/C# and .NET/C-sharp-.NET-Training/carInsurance/carInsurance/obj/Debug/net5.0/carInsurance.genruntimeconfig.cache
