@@ -38,8 +38,9 @@ namespace Branching
                         else
                         {
                             int price = height * width * length;
-                            int quote = price / 100;
-                            Console.WriteLine("Your estimated total for shipping this package is: $" + quote);
+                            int workingquote = price * weight;
+                            int totalQuote = workingquote / 100;
+                            Console.WriteLine("Your estimated total for shipping this package is: $" + totalQuote);
                             Console.ReadLine();
 
                         }
