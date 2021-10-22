@@ -1,0 +1,15 @@
+/Users/codepadiwan/Projects/Branching/Branching/bin/Debug/net5.0/Branching.deps.json
+/Users/codepadiwan/Projects/Branching/Branching/bin/Debug/net5.0/Branching.runtimeconfig.json
+/Users/codepadiwan/Projects/Branching/Branching/bin/Debug/net5.0/Branching.runtimeconfig.dev.json
+/Users/codepadiwan/Projects/Branching/Branching/bin/Debug/net5.0/Branching.dll
+/Users/codepadiwan/Projects/Branching/Branching/bin/Debug/net5.0/ref/Branching.dll
+/Users/codepadiwan/Projects/Branching/Branching/bin/Debug/net5.0/Branching.pdb
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/Branching.csproj.AssemblyReference.cache
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/Branching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/Branching.AssemblyInfoInputs.cache
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/Branching.AssemblyInfo.cs
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/Branching.csproj.CoreCompileInputs.cache
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/Branching.dll
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/ref/Branching.dll
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/Branching.pdb
+/Users/codepadiwan/Projects/Branching/Branching/obj/Debug/net5.0/Branching.genruntimeconfig.cache
