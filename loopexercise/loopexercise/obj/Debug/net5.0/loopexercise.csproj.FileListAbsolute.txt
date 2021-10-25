@@ -1,0 +1,15 @@
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/bin/Debug/net5.0/loopexercise.deps.json
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/bin/Debug/net5.0/loopexercise.runtimeconfig.json
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/bin/Debug/net5.0/loopexercise.runtimeconfig.dev.json
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/bin/Debug/net5.0/loopexercise.dll
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/bin/Debug/net5.0/ref/loopexercise.dll
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/bin/Debug/net5.0/loopexercise.pdb
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/loopexercise.csproj.AssemblyReference.cache
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/loopexercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/loopexercise.AssemblyInfoInputs.cache
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/loopexercise.AssemblyInfo.cs
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/loopexercise.csproj.CoreCompileInputs.cache
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/loopexercise.dll
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/ref/loopexercise.dll
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/loopexercise.pdb
+/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/obj/Debug/net5.0/loopexercise.genruntimeconfig.cache
