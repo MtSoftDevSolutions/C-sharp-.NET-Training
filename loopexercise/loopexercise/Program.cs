@@ -10,7 +10,7 @@ namespace loopexercise
             //declaring data type integer to variable named team
             int team = Convert.ToInt32(Console.ReadLine());
             //rightTeam will be the boolean variable checked against in the following while loop
-            bool rightTeam = team == 1;
+            bool rightTeam = false;
            //while rightTeam is false do this 
             while (!rightTeam)
             switch (team)

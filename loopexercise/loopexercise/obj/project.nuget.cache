@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jyZyUPE8+3uk0kcTN1zt93qjiu8kzoDqe/ko8BWotNqWUOflofJAs3q63K+Ar7uKHrfXZU7YcjG2oj4aTkgmCw==",
+  "dgSpecHash": "NMlt2P0QKp52latsY2Z/4hSn4biuoYVqdUnKO9OQbntprd2+wDesfxc22WLE1OG7lHzLzr/oa2xv2VKotGLNGg==",
   "success": true,
-  "projectFilePath": "/Users/codepadiwan/Documents/GitHub/C-sharp-.NET-Training/loopexercise/loopexercise/loopexercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mhtab\\Source\\Repos\\MtSoftDevSolutions\\C-sharp-.NET-Training\\loopexercise\\loopexercise\\loopexercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhtab\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512",
+    "C:\\Users\\mhtab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mhtab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mhtab\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
