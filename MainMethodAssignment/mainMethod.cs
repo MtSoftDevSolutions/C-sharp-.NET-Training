@@ -29,5 +29,6 @@ namespace MainMethodAssignment
 
             return (stringy * 7);
         }
+
     }
 }
