@@ -1,65 +1,107 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
-namespace Branching
+namespace conzoleapp
 {
     class Program
     {
         static void Main(string[] args)
-
         {
-            //Introduction and asking the weight of the package. Indentation in C#, as with any other language is of utmost importance
-            //Notice that the first if statement and the last else statement are indented on the same level for a reason
-            Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
-            Console.WriteLine("Please enter the package weight:");
-            short weight = Convert.ToInt16(Console.ReadLine());
-            if (weight <= 50)
-            {
-                //this if statement is the start of all the other if statements because one variable chains to another. If all the if statements
-                //from here on out were on the same level the variables from one if statement could not be used on another if statement.
-                Console.WriteLine("Please enter the package width:");
-                short width = Convert.ToInt16(Console.ReadLine());
-                if (width <= 50)
-                {
-                    Console.WriteLine("Please enter the package height:");
-                    short height = Convert.ToInt16(Console.ReadLine());
-                    if (height<=50)
-                    {
-                        //the two integers in this if statement really could have been one, but I wanted to make sure that it was clear for later reference.
-                        Console.WriteLine("Please enter the package length:");
-                        short length = Convert.ToInt16(Console.ReadLine());
-                        int dimensions = width + height;
-                        int totaldimensions = dimensions + length;
-                        //while all the if statements before this one were <, I wanted to throw a > in because I felt it made things more interesting.
-                        if (totaldimensions > 50)
-                        {
-                            Console.WriteLine("Package too big to be shipped via Package Express.");
-                            Console.ReadLine();
-                        }
-                        else
-                        {
-                            int price = height * width * length;
-                            int workingquote = price * weight;
-                            int totalQuote = workingquote / 100;
-                            Console.WriteLine("Your estimated total for shipping this package is: $" + totalQuote);
-                            Console.ReadLine();
+            //string[] mlbTeams = { "Royals", "Twins", "Dodgers", "Braves", "Giants" };
+            //Console.WriteLine("Make up a chant/cheer for an MLB team.");
+            //string userInput = Console.ReadLine();
+            //for (int i = 0; i <= mlbTeams.Length; i++)
+            //{
+            //    mlbTeams[i] = mlbTeams[i] + ' ' + userInput;
+            //    Console.WriteLine(mlbTeams[i]);
 
-                        }
-                        
-                    }
-                    
-                    
-                }
-                
-                
-            }
-            else
+            //}
+            //Console.ReadLine();
+
+
+            //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+            //List<string> Inventors = new List<string> { "Albert Einstein", "Thomas Edison", "Wright Brothers", "Nick Tesla" };
+            //Console.WriteLine("Please choose either Albert Einstein, Thomas Edison, Wright Brothers, or Nick Tesla as input.");
+            //string userInput = Console.ReadLine();
+            ////I've decided to keep my mistakes so that I will remember why they were mistakes
+            ////foreach will loop through each of the indexes, so I was having trouble with something repeating
+            ////the culprit was the foreach statement.
+            ////foreach(string inventor in Inventors)
+            ////{
+            //    if (Inventors.Contains (userInput))
+            //    {
+            //        Console.WriteLine(Inventors.IndexOf(userInput));
+
+            //}
+            //    else 
+            //    {
+            //        Console.WriteLine("While this person may be important, they were not represented on this list.");
+            //    }
+
+
+            ////}
+
+            //Console.ReadLine();
+            //Part 5 using linq
+            //List<string> Names = new List<string> { "Albert", "Joe", "Miles", "Joe", "Michael" };
+            //Console.WriteLine("Are you looking for Albert, Joe, Miles, Joe, or Michael? Please input First Name: ");
+            //string firstName = Console.ReadLine();
+
+            //var result = Names.Select((c, i) => new { character = c, index = i }).Where(list => list.character == firstName).ToList();
+            //foreach (string name in Names)
+            //{
+
+            //    if (Names.Contains(firstName))
+            //    {
+            //        Console.WriteLine(Names.IndexOf(firstName));
+
+            //    }
+
+            //    else
+            //    {
+            //        Console.WriteLine("Does not match the list of names.");
+            //    }
+            //    int x = 0;
+            //    while ((x = Names.IndexOf(firstName, x)) != -1)
+            //    {
+            //        Console.WriteLine("index " + x);
+            //        x++;
+            //    }
+            //    break;
+            //}
+            //    Console.ReadLine();
+            
+            //**********************Part 6****************************************************************
+            List<string> mascots = new List<string> { "Lions", "Lions", "Tigers", "Bears", "Packers" };
+            //Created another list to help sort duplicates
+            List<string> moreMascots = new List<string> { };
+            //iteration
+            foreach (string party in mascots)
             {
-                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
-                Console.ReadLine();
+                //iteration in the other list
+                foreach(string town in moreMascots)
+                {
+                    //if there is a duplicate
+                    if (party == town)
+                    {
+                        Console.WriteLine(party + " occurred more than once.");
+                    }
+
+
+                }
+                //if no duplicate present
+                if (moreMascots.Contains(party)==false)
+                {
+                    Console.WriteLine(party + " has not happened before.");
+                }
+                moreMascots.Add(party);
+
             }
+            Console.ReadLine();
+
+
+
         }
     }
 }
-            
-            
-                      
