@@ -8,6 +8,7 @@ namespace methodExample
 {
     public class RequiredAndOptional
     {
+        //used params to allow for optional parameter
         static public void Requirement(int userInput, params int[] a1)
         {
             int mul = 1;
