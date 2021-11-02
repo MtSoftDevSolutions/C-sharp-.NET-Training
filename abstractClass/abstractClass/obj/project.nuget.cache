@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dBZeM3MqFo1jg+OKfg0j2jF66Zd9Ob3ZTbddnChAwziQwZv2hGoBR4HeaPHB+YfOySrEu45ufepuc0ziQcgugA==",
+  "success": true,
+  "projectFilePath": "/Users/codepadiwan/Projects/C#/abstractClass/abstractClass/abstractClass.csproj",
+  "expectedPackageFiles": [
+    "/Users/codepadiwan/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.9/microsoft.netcore.app.host.osx-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

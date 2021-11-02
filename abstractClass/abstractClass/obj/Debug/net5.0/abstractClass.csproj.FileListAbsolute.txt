@@ -1,0 +1,5 @@
+/Users/codepadiwan/Projects/C#/abstractClass/abstractClass/obj/Debug/net5.0/abstractClass.csproj.AssemblyReference.cache
+/Users/codepadiwan/Projects/C#/abstractClass/abstractClass/obj/Debug/net5.0/abstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codepadiwan/Projects/C#/abstractClass/abstractClass/obj/Debug/net5.0/abstractClass.AssemblyInfoInputs.cache
+/Users/codepadiwan/Projects/C#/abstractClass/abstractClass/obj/Debug/net5.0/abstractClass.AssemblyInfo.cs
+/Users/codepadiwan/Projects/C#/abstractClass/abstractClass/obj/Debug/net5.0/abstractClass.csproj.CoreCompileInputs.cache
