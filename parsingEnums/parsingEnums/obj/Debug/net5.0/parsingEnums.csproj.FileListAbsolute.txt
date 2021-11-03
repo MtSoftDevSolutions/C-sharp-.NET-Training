@@ -1,0 +1,15 @@
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/parsingEnums.csproj.AssemblyReference.cache
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/parsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/parsingEnums.AssemblyInfoInputs.cache
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/parsingEnums.AssemblyInfo.cs
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/parsingEnums.csproj.CoreCompileInputs.cache
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/bin/Debug/net5.0/parsingEnums.deps.json
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/bin/Debug/net5.0/parsingEnums.runtimeconfig.json
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/bin/Debug/net5.0/parsingEnums.runtimeconfig.dev.json
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/bin/Debug/net5.0/parsingEnums.dll
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/bin/Debug/net5.0/ref/parsingEnums.dll
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/bin/Debug/net5.0/parsingEnums.pdb
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/parsingEnums.dll
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/ref/parsingEnums.dll
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/parsingEnums.pdb
+/Users/codepadiwan/Projects/C#/parsingEnums/parsingEnums/obj/Debug/net5.0/parsingEnums.genruntimeconfig.cache
