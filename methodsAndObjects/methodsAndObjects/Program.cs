@@ -12,6 +12,9 @@ namespace methodsAndObjects
         {
             Employee name = new Employee() { FirstName = "Sample", LastName = "Student"};
             name.SayName();
+            IQuittable joe = new Employee();
+            joe.Quit();
+            name.Quit();
             Console.ReadLine();
             
         }

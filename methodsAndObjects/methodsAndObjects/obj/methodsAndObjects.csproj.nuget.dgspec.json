@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/codepadiwan/Projects/C#/methodsAndObjects/methodsAndObjects/methodsAndObjects.csproj": {}
+    "/Users/codepadiwan/Documents/C#/methodsAndObjects/methodsAndObjects/methodsAndObjects.csproj": {}
   },
   "projects": {
-    "/Users/codepadiwan/Projects/C#/methodsAndObjects/methodsAndObjects/methodsAndObjects.csproj": {
+    "/Users/codepadiwan/Documents/C#/methodsAndObjects/methodsAndObjects/methodsAndObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/codepadiwan/Projects/C#/methodsAndObjects/methodsAndObjects/methodsAndObjects.csproj",
+        "projectUniqueName": "/Users/codepadiwan/Documents/C#/methodsAndObjects/methodsAndObjects/methodsAndObjects.csproj",
         "projectName": "methodsAndObjects",
-        "projectPath": "/Users/codepadiwan/Projects/C#/methodsAndObjects/methodsAndObjects/methodsAndObjects.csproj",
+        "projectPath": "/Users/codepadiwan/Documents/C#/methodsAndObjects/methodsAndObjects/methodsAndObjects.csproj",
         "packagesPath": "/Users/codepadiwan/.nuget/packages/",
-        "outputPath": "/Users/codepadiwan/Projects/C#/methodsAndObjects/methodsAndObjects/obj/",
+        "outputPath": "/Users/codepadiwan/Documents/C#/methodsAndObjects/methodsAndObjects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/codepadiwan/.config/NuGet/NuGet.Config"
