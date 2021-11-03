@@ -1,10 +1,13 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace methodsAndObjects
 {
     // Employee : Person is the inheritance statement
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int Id { get; set; }
 
@@ -13,15 +16,21 @@ namespace methodsAndObjects
         {
             Console.WriteLine("Would you like to quit?");
         }
-        public static bool operator ==(Employee Mike, Employee Jane)
+
+        //checking to see if the two ids are equal 
+        public static bool operator ==(Employee <T> obj1, Employee <T> obj2)
         {
-            return Mike.Id == Jane.Id;
+            bool answer = (obj1.Id == obj2.Id);
+            return answer;
             
         }
-
-        public static bool operator !=(Employee Mike, Employee Jane)
+        //have to include the overload of "!=" to use the method above
+        public static bool operator !=(Employee<T> obj1, Employee<T> obj2)
         {
-            return Mike.Id != Jane.Id;
+            bool answer = (obj1.Id != obj2.Id);
+            return answer;
         }
+
+        //List things = public List<T> employeeList { get; set; }
     }
 }
