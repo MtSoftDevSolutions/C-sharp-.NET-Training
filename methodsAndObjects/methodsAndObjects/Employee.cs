@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace methodsAndObjects
 {
     // Employee : Person is the inheritance statement
-    public class Employee<T> : Person, IQuittable
+    public class Employee : Person, IQuittable
     {
         public int Id { get; set; }
 
@@ -18,14 +18,14 @@ namespace methodsAndObjects
         }
 
         //checking to see if the two ids are equal 
-        public static bool operator ==(Employee <T> obj1, Employee <T> obj2)
+        public static bool operator ==(Employee  obj1, Employee  obj2)
         {
             bool answer = (obj1.Id == obj2.Id);
             return answer;
             
         }
         //have to include the overload of "!=" to use the method above
-        public static bool operator !=(Employee<T> obj1, Employee<T> obj2)
+        public static bool operator !=(Employee obj1, Employee obj2)
         {
             bool answer = (obj1.Id != obj2.Id);
             return answer;
