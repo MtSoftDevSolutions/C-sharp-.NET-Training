@@ -11,15 +11,15 @@ namespace parsingEnums
             {
                 //instantiated the MikeClassEnum
                 MikeClassEnum variable = new MikeClassEnum();
-                //Ask user the time of day
-                Console.WriteLine("Is it morning, afternoon, evening, or night time?");
+                //Ask user the day like Monday, Tuesday, Wednesday, etc.
+                Console.WriteLine("What day is it?");
                 string userInput = Console.ReadLine();
-                variable.time = (TimeOfTheDay)Enum.Parse(typeof(TimeOfTheDay), userInput);
-                Console.WriteLine($"Yes, it's {userInput} time.");
+                variable.day = (WhatDay)Enum.Parse(typeof(WhatDay), userInput);
+                Console.WriteLine($"Yes, it's {userInput}.");
             }
             catch (System.ArgumentException ex)
             {
-                Console.WriteLine("Please enter a time of day. (example, morning)");
+                Console.WriteLine("Please enter an actual day of the week (like Monday, Tuesday, etc.)");
             }
             Console.ReadLine();
         }

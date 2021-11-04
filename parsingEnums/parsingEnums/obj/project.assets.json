@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/codepadiwan/Desktop/parsingEnums/parsingEnums/parsingEnums.csproj",
+      "projectUniqueName": "/Users/codepadiwan/Documents/C#/parsingEnums/parsingEnums/parsingEnums.csproj",
       "projectName": "parsingEnums",
-      "projectPath": "/Users/codepadiwan/Desktop/parsingEnums/parsingEnums/parsingEnums.csproj",
+      "projectPath": "/Users/codepadiwan/Documents/C#/parsingEnums/parsingEnums/parsingEnums.csproj",
       "packagesPath": "/Users/codepadiwan/.nuget/packages/",
-      "outputPath": "/Users/codepadiwan/Desktop/parsingEnums/parsingEnums/obj/",
+      "outputPath": "/Users/codepadiwan/Documents/C#/parsingEnums/parsingEnums/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/codepadiwan/.config/NuGet/NuGet.Config"

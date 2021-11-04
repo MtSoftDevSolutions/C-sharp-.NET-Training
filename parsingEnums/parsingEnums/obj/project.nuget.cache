@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3No7kNMhc6RcjI9bXyZbdTqbFYeN25JnwWTPgiXBgjCM5Qyk61h7QhIq+Zbe7W2w7EsxrQTA0Au8yE30Som/XA==",
+  "dgSpecHash": "o9anAslZzc4PJJ1QJMkwQ2tS0tFOisTDp8KzvYvBpfmItxgfMODA2AvqfTvmvZBM7nJ4mvkLFXr4LgcJ9pEf5w==",
   "success": true,
-  "projectFilePath": "/Users/codepadiwan/Desktop/parsingEnums/parsingEnums/parsingEnums.csproj",
+  "projectFilePath": "/Users/codepadiwan/Documents/C#/parsingEnums/parsingEnums/parsingEnums.csproj",
   "expectedPackageFiles": [
     "/Users/codepadiwan/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.9/microsoft.netcore.app.host.osx-x64.5.0.9.nupkg.sha512"
   ],

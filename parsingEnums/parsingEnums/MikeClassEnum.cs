@@ -4,15 +4,17 @@ namespace parsingEnums
     public class MikeClassEnum
     {
        //giving property to class
-       public TimeOfTheDay time { get; set; } 
+       public WhatDay day { get; set; } 
     }
     //Created enums for times of the day
-    public enum TimeOfTheDay
+    public enum WhatDay
     {
-        morning,
-        afternoon,
-        evening,
-        night
-
+        Monday,
+        Tuesday,
+        Wednesday,
+        Thursday,
+        Friday,
+        Saturday,
+        Sunday
     }
 }
