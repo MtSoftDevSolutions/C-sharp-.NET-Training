@@ -22,8 +22,12 @@ namespace TwentyOne
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
 
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
-            Deck.Cards.RemoveAt(0);
+            using (StreamWriter file = new StreamWriter(@"C:\Users\mhtab\OneDrive\Desktop\C#\TwentyOneLocal\log.txt", true))
+            {
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);
+            }
+                Deck.Cards.RemoveAt(0);
         }
     }
 }
